@@ -4,6 +4,7 @@
 **Kobigan1223/Kobigan1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 #Hey 👋, I'm Kobigan.K
+I'm a Second year student pursuing Bachelors's of Science Software Engineering   🎓 from SLIIT University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and Computer Vision 👀.
 
 Here are some ideas to get you started:
 
@@ -14,5 +15,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...Kobigan
 -->
