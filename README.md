@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+ [![Linkedin Badge](https://img.shields.io/badge/-kunalraghav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/)](https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/) 
 
 **Kobigan1223/Kobigan1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
