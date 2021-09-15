@@ -24,7 +24,10 @@ Here are some ideas to get you started:
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
 		"- 💬 Ask me about":                  "Python, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev ",
                  - 😄 Pronouns: his/him
-                 - ⚡ Fun fact: ...Kobigan		
+                 - ⚡ Fun fact: ...Kobigan
+		 
+		 
+		 
 	
                              \\\\\\\
                             \\\\\\\\\\\\
@@ -47,22 +50,8 @@ _____________|','   ///_/-------------/   |
               |===========,'
 ```
 
-<h2 align="center">You can reach me at :alien:</h2>
-
-<p align="center">
- 
-
   <a href="https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Kobigan's LinkedIn Profile" height="30" width="30">
   </a>
-
-
-  
-</p>
-
-<h2 align="center">My stack :man_technologist:</h2>
-
-
-⭐️ From Kobigan
 
 
