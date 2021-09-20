@@ -1,12 +1,10 @@
 ### Hi there 👋
-<img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
-
-<img align="" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47nkciomoneodurklqkf77a44bjz2y591ykjek89uh&rid=giphy.gif&ct=g" width="200" height="200"/>
+<img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="400" height="200"/>
+<img align="" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47nkciomoneodurklqkf77a44bjz2y591ykjek89uh&rid=giphy.gif&ct=g" width="400" height="200"/>
 </br></br></br>
 
  [![Linkedin Badge](https://img.shields.io/badge/-kobigan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/)](https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/) 
 
-**Kobigan1223/Kobigan1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 #Hey 👋, I am Kobigan
 
@@ -52,7 +50,7 @@ Here are some ideas to get you started:
         <span><strong>Django</strong></span><br><br><br>
         <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlHpEsRq4pIo4vTLAn24qGNwG41dFdXLJwsQ&usqp=CAU">
       </td>
-     </tr>
+	  </tr>
     <tr valign="top">
       <td width="25%" align="center">
         <span><strong>CSS</strong></span><br><br><br>
