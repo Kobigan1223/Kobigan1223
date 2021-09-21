@@ -1,7 +1,6 @@
 ### Hi there 👋
-<img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="400" height="200"/>
-<img align="" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47nkciomoneodurklqkf77a44bjz2y591ykjek89uh&rid=giphy.gif&ct=g" width="400" height="200"/>
-</br></br></br>
+<img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
+</br></br>
 
  [![Linkedin Badge](https://img.shields.io/badge/-kobigan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/)](https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/) 
 
