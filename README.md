@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <div align="right">
 
@@ -12,19 +12,16 @@
 
 <p align='center'>
     <a href="https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/"><img height="30" src="assets/images/linkedin.png"></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/"><img height="30" src="assets/images/medium.png"></a>&nbsp;&nbsp;
+    <a href="https://medium.com/@kobitech18"><img height="30" src="assets/images/medium.png"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/"><img height="30" src="assets/images/facebook.png"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/"><img height="30" src="assets/images/instagram.png"></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/"><img height="30" src="assets/images/skype.png"></a>&nbsp;&nbsp;
-
+   <!-- <a href="https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/"><img height="30" src="assets/images/skype.png"></a>&nbsp;&nbsp;
+-->
  </p>
 
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 👨🏽‍💻 Software Engineering Student SLIIT | 💻 Full Stack Developer | 🎓 Software Engineering Undergraduate at SLIIT  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h3>
 </div>
-
-<img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
-</br></br>
 
  
  <img align="right" height="300px" width="400px" alt="GIF" src="assets/images/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966.gif" />
@@ -46,18 +43,9 @@
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Kobigan1223&show_icons=true&theme=react&hide=issues,stars&count_private=true&include_all_commits=true_height=30">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Kobigan1223&layout=compact&theme=react&langs_count=4">
-
-  *NOTE: Most Used Languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats.*
-  
 </p>
 
-<!--
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=Kobigan1223&show_icons=true&theme=react&hide=issues&count_private=true&include_all_commits=true)](https://github.com/Kobigan1223)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kobigan1223&layout=compact&theme=react)](https://github.com/Kobigan1223)
--->
+<a href="https://www.kobigan.io/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Kobigan1223&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kobigan1223&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 <br />
 
@@ -66,9 +54,9 @@
 <p align="center">
   
    <img src="assets\badges\Frameworks\react.svg" alt="react" style="vertical-align:top; margin:4px">
-   <img src="assets\badges\Frameworks\flutter.svg" alt="flutter" style="vertical-align:top; margin:4px">
+ <!--  <img src="assets\badges\Frameworks\flutter.svg" alt="flutter" style="vertical-align:top; margin:4px">
   <img src="assets\badges\Frameworks\nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">     
-  <img src="assets\badges\Frameworks\bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
+  <img src="assets\badges\Frameworks\bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px"> -->
   <img src="assets\badges\Frameworks\angular.svg" alt="angularjs" style="vertical-align:top; margin:4px">
   
 </p>
@@ -110,6 +98,7 @@ or <a href="mailto:kobitech18@gmail.com"><b>email</b></a> me.
 ## <i>Happy Coding!</i> <img align="center"  alt="GIF" src="assets\images\sonic-dance.gif" />
 
 </div>
+
 
 
   ### I know more about- </br>
