@@ -23,9 +23,6 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 👨🏽‍💻 Software Engineering Student SLIIT | 💻 Full Stack Developer | 🎓 Software Engineering Undergraduate at SLIIT  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h3>
 </div>
 
-<img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
-</br></br>
-
  
  <img align="right" height="300px" width="400px" alt="GIF" src="assets/images/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966.gif" />
 
