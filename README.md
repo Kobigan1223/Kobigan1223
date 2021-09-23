@@ -26,13 +26,13 @@
 </br></br>
 
  [![Linkedin Badge](https://img.shields.io/badge/-kobigan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/)](https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/) 
-
+-->
 
 #Hey 👋, I am Kobigan
 
 Here are some ideas to get you started:
 
--->
+
 
 - 🌱 I’m currently learning Software Engineering
 
