@@ -49,12 +49,7 @@
   
 </p>
 
-<!--
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=Kobigan1223&show_icons=true&theme=react&hide=issues&count_private=true&include_all_commits=true)](https://github.com/Kobigan1223)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kobigan1223&layout=compact&theme=react)](https://github.com/Kobigan1223)
--->
+<a href="https://www.kobigan.io/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Kobigan1223&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kobigan1223&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 <br />
 
@@ -108,7 +103,7 @@ or <a href="mailto:kobitech18@gmail.com"><b>email</b></a> me.
 
 </div>
 
-<a href="https://www.kobigan.io/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Kobigan1223&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kobigan1223&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+
 
   ### I know more about- </br>
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
