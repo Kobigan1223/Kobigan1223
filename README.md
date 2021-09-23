@@ -43,10 +43,6 @@
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Kobigan1223&show_icons=true&theme=react&hide=issues,stars&count_private=true&include_all_commits=true_height=30">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Kobigan1223&layout=compact&theme=react&langs_count=4">
-
-  *NOTE: Most Used Languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats.*
-  
 </p>
 
 <a href="https://www.kobigan.io/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Kobigan1223&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kobigan1223&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
