@@ -46,18 +46,18 @@
 </details>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=kobigan1123&show_icons=true&theme=react&hide=issues,stars&count_private=true&include_all_commits=true_height=30">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kobigan1123&layout=compact&theme=react&langs_count=4">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Kobigan1223&show_icons=true&theme=react&hide=issues,stars&count_private=true&include_all_commits=true_height=30">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Kobigan1223&layout=compact&theme=react&langs_count=4">
 
   *NOTE: Most Used Languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats.*
   
 </p>
 
 <!--
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=Kobigan1123&show_icons=true&theme=react&hide=issues&count_private=true&include_all_commits=true)](https://github.com/KavinduLiyanage)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=Kobigan1223&show_icons=true&theme=react&hide=issues&count_private=true&include_all_commits=true)](https://github.com/Kobigan1223)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kobigan1123&layout=compact&theme=react)](https://github.com/Kobigan1123)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kobigan1223&layout=compact&theme=react)](https://github.com/Kobigan1223)
 -->
 
 <br />
@@ -105,7 +105,7 @@
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/kobigan1123"><b>here</b></a><br>
+Ask me anything <a href="https://github.com/Kobigan1223"><b>here</b></a><br>
 or <a href="mailto:kobitech18@gmail.com"><b>email</b></a> me.
 
 ## <i>Happy Coding!</i> <img align="center"  alt="GIF" src="assets\images\sonic-dance.gif" />
