@@ -46,18 +46,18 @@
 </details>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=KavinduLiyanage&show_icons=true&theme=react&hide=issues,stars&count_private=true&include_all_commits=true_height=30">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduLiyanage&layout=compact&theme=react&langs_count=4">
+  <img src = "https://github-readme-stats.vercel.app/api?username=kobigan1123&show_icons=true&theme=react&hide=issues,stars&count_private=true&include_all_commits=true_height=30">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kobigan1123&layout=compact&theme=react&langs_count=4">
 
   *NOTE: Most Used Languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats.*
   
 </p>
 
 <!--
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=KavinduLiyanage&show_icons=true&theme=react&hide=issues&count_private=true&include_all_commits=true)](https://github.com/KavinduLiyanage)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=Kobigan1123&show_icons=true&theme=react&hide=issues&count_private=true&include_all_commits=true)](https://github.com/KavinduLiyanage)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduLiyanage&layout=compact&theme=react)](https://github.com/KavinduLiyanage)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kobigan1123&layout=compact&theme=react)](https://github.com/Kobigan1123)
 -->
 
 <br />
@@ -112,74 +112,6 @@ or <a href="mailto:kobitech18@gmail.com"><b>email</b></a> me.
 
 </div>
 
-
-#Hey 👋, I am Kobigan
-
-Here are some ideas to get you started:
-
-
-
-- 🌱 I’m currently learning Software Engineering
-
-- 🤔 I’m looking for help with my friends
-- 💬 Ask me about projects
-- 📫 How to reach me: kobitech18@gmail.com
-
-
-
-
-<h2 align="center">About me</h2>
-
-		"- 🌱 I’m currently learning":        "MongoDB,Firebase --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
-		"- 👯 I’m looking to collaborate on": "Python, php  related projects",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "Python, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev ",
-                 - 😄 Pronouns: his/him
-                 - ⚡ Fun fact: ...Kobigan
-		 
-		 
-	
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-	      <span><strong>Python</strong></span><br><br><br>
-        <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
-      </td>
-      <td width="25%" align="center">
-	      <span><strong>AWS</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Java</strong></span><br><br><br>
-        <img height="100px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Django</strong></span><br><br><br>
-        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlHpEsRq4pIo4vTLAn24qGNwG41dFdXLJwsQ&usqp=CAU">
-      </td>
-	  </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>CSS</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Html 5</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Git</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Vs Code</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-    </tr>
-
-  </tbody>
-</table>
 
   ### I know more about- </br>
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
