@@ -24,7 +24,7 @@
 </div>
 
  
- <img align="right" height="300px" width="400px" alt="GIF" src="assets/images/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966.gif" />
+ <img align="right" height="300px" width="400px" alt="GIF" src="assets/images/processing.gif" />
 
 
 ## 😎 Talking about Personal Stuffs:
