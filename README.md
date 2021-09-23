@@ -2,27 +2,27 @@
 
 <div align="right">
 
-![](https://visitor-badge.glitch.me/badge?page_id=KavinduLiyanage.KavinduLiyanage)
+![](https://visitor-badge.glitch.me/badge?page_id=Kobigan1223.Kobigan1223)
 
 </div>
 <div align="center">
-   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi there, I'm Kavindu Sandeepa Liyanage<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>
+   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi there, I'm Kobigan K <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>
    
 </div>
 
 <p align='center'>
-    <a href="https://www.linkedin.com/in/kavinduliyanage/"><img height="30" src="assets/images/linkedin.png"></a>&nbsp;&nbsp;
-    <a href="https://medium.com/@KavinduLiyanage"><img height="30" src="assets/images/medium.png"></a>&nbsp;&nbsp;
-    <a href="https://www.facebook.com/Kavindu.Sandeepa.Liyanage/"><img height="30" src="assets/images/facebook.png"></a>&nbsp;&nbsp;
-    <a href="https://www.instagram.com/_kavindu.sandeepa_/"><img height="30" src="assets/images/instagram.png"></a>&nbsp;&nbsp;
-    <a href="https://join.skype.com/invite/Y3xBm8gk1fyV"><img height="30" src="assets/images/skype.png"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/"><img height="30" src="assets/images/linkedin.png"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/"><img height="30" src="assets/images/medium.png"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/"><img height="30" src="assets/images/facebook.png"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/"><img height="30" src="assets/images/instagram.png"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/"><img height="30" src="assets/images/skype.png"></a>&nbsp;&nbsp;
 
  </p>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 👨🏽‍💻 Software Engineering Intern at Orel IT | 💻 Full Stack Developer | 🎓 Software Engineering Undergraduate at SLIIT  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 👨🏽‍💻 Software Engineering Student SLIIT | 💻 Full Stack Developer | 🎓 Software Engineering Undergraduate at SLIIT  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h3>
 </div>
-<img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
+<!--<img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
 </br></br>
 
  [![Linkedin Badge](https://img.shields.io/badge/-kobigan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/)](https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/) 
@@ -32,6 +32,7 @@
 
 Here are some ideas to get you started:
 
+-->
 
 - 🌱 I’m currently learning Software Engineering
 
