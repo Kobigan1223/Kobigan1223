@@ -33,10 +33,21 @@
 - ### 💬 Ask me about anything, I am happy to help 😊
 - ### 📫 How to reach me: Use any of the badges above 
 - ### 😄 Pronouns: [He/Him] 👦
-- ### ⚡ I love to talk on trending technology 📱
+- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 💼 &nbsp; UI/UX Designer and front-end web developer.
+- 🌱 &nbsp; Enthusiast in Data Science and Artificial Intelligence .
   
 <br />
 
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | Dart | Java | C++  
+- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; MySQL | Firebase | Xampp
+- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
+- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+
+<br>
 ## 😇 Some of my Github Public Stats
 
 </details>
@@ -48,6 +59,7 @@
 <a href="https://www.kobigan.io/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Kobigan1223&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=react" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kobigan1223&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&theme=react" /></a>
 </p>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kobigan1223k&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Kobigan's Github Stats">
 <br />
 
 ## 🚀 Frameworks...
