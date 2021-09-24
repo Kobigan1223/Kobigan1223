@@ -59,7 +59,7 @@
 <a href="https://www.kobigan.io/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Kobigan1223&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=react" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kobigan1223&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&theme=react" /></a>
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kobigan1223k&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Kobigan's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kobigan1223&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Kobigan's Github Stats">
 <br />
 
 ## 🚀 Frameworks...
