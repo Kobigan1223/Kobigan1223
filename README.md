@@ -12,7 +12,7 @@
 
 <p align='center'>
     <a href="http://kobigan.me/"><img height="30" src="assets/images/web.png"></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/"><img height="30" src="assets/images/linkedin.png"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/"><img height="30" src="assets/images/link.png"></a>&nbsp;&nbsp;
     <a href="https://medium.com/@kobitech18"><img height="30" src="assets/images/medium.png"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/"><img height="30" src="assets/images/facebook.png"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/"><img height="30" src="assets/images/instagram.png"></a>&nbsp;&nbsp;
