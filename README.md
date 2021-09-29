@@ -6,11 +6,12 @@
 
 </div>
 <div align="center">
-   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/style="color:blue;">Hi there, I'm Kobigan K <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>
+   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/style="color:blue;"> Hi there, I'm Kobigan K  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>
    
 </div>
 
 <p align='center'>
+    <a href="http://kobigan.me/"><img height="30" src="assets/images/web.png"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/"><img height="30" src="assets/images/linkedin.png"></a>&nbsp;&nbsp;
     <a href="https://medium.com/@kobitech18"><img height="30" src="assets/images/medium.png"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/"><img height="30" src="assets/images/facebook.png"></a>&nbsp;&nbsp;
@@ -33,22 +34,35 @@
 - ### 💬 Ask me about anything, I am happy to help 😊
 - ### 📫 How to reach me: Use any of the badges above 
 - ### 😄 Pronouns: [He/Him] 👦
-- ### ⚡ I love to talk on trending technology 📱
+- 🎓 &nbsp; Studying Software Engineering.
+- 💼 &nbsp; UI/UX Designer and front-end web developer.
+- 🌱 &nbsp; Enthusiast in Data Science and Artificial Intelligence .
   
 <br />
 
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | C | Java | C++  
+- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; MySQL | MSSQL | MongoDB | Xampp
+- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
+- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
+
+<br>
 ## 😇 Some of my Github Public Stats
 
 </details>
-
+<center>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Kobigan1223&show_icons=true&theme=react&hide=issues,stars&count_private=true&include_all_commits=true_height=30">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kobigan1223&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Kobigan's Github Stats">
+<br /><br />
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kobigan1223&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&theme=react" /></a>
 
 
-<a href="https://www.kobigan.io/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Kobigan1223&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=react" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kobigan1223&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&theme=react" /></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kobigan1223&theme=radical&title_color=8E2DE2&text_color=fff)
 </p>
+</center>
 
-<br />
 
 ## 🚀 Frameworks...
 
