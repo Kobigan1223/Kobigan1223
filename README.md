@@ -50,7 +50,7 @@
 - 🌱 &nbsp; Enthusiast in Data Science and Artificial Intelligence .
   
 <br />
-
+[Click Here to MyPage](http://kobigan.me/)
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C | Java | C++  
@@ -88,7 +88,7 @@
 </p>
 -->
           <!-- 
-           Comments
+          [Click Here to Download](https://www.apachefriends.org/index.html)
         -->
 
 ## 🌀 Languages...
