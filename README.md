@@ -69,12 +69,12 @@
 <br /><br />
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kobigan1223&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&theme=react" /></a>
 
-
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kobigan1223&theme=radical&title_color=8E2DE2&text_color=fff)
 </p>
 </center>
-
-
+-->
+<!--
 ## 🚀 Frameworks...
 
 <p align="center">
@@ -86,14 +86,14 @@
   <img src="assets\badges\Frameworks\angular.svg" alt="angularjs" style="vertical-align:top; margin:4px">
   
 </p>
-
+-->
 ## 🌀 Languages...
 
 <p align="center">
   
    <img src="assets\badges\Languages\java.svg" alt="java" style="vertical-align:top; margin:4px">
-   <img src="assets\badges\Languages\js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="assets\badges\Languages\csharp_dotnet.svg" alt="csharpdotnet" style="vertical-align:top; margin:4px">    
+   <img src="assets\badges\Languages\js.svg" alt="js" style="vertical-align:top; margin:4px">  <!--
+  <img src="assets\badges\Languages\csharp_dotnet.svg" alt="csharpdotnet" style="vertical-align:top; margin:4px">    -->
   <img src="assets\badges\Languages\php.svg" alt="php" style="vertical-align:top; margin:4px"> 
   <img src="assets\badges\Languages\html.svg" alt="html" style="vertical-align:top; margin:4px">
   <img src="assets\badges\Languages\python.svg" alt="python" style="vertical-align:top; margin:4px">
