@@ -16,19 +16,19 @@
 
 <p align='center'>
    
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kobitech18@gmail.com)](mailto:kobitech18@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://kobigan.me)](https://kobigan.me) 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/manumanoj0010)](https://twitter.com/kobigan)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/m.a.n.u.m.a.n.o.j/)](https://instagram.com/manumanoj.me)
+   ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/)
+   [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kobitech18@gmail.com)](mailto:kobitech18@gmail.com)
+   [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://kobigan.me)](https://kobigan.me) 
+   [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=http://kobigan.me/)]  (http://kobigan.me/)
+   [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/m.a.n.u.m.a.n.o.j/)] (http://kobigan.me/)
    <br>
     <a href="http://kobigan.me/"><img height="30" src="assets/images/web.png"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/"><img height="30" src="assets/images/linkedin.png"></a>&nbsp;&nbsp;
     <a href="https://medium.com/@kobitech18"><img height="30" src="assets/images/medium.png"></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/"><img height="30" src="assets/images/facebook.png"></a>&nbsp;&nbsp;
+    <a href="http://kobigan.me/"><img height="30" src="assets/images/facebook.png"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/"><img height="30" src="assets/images/instagram.png"></a>&nbsp;&nbsp;
    
- </p>
+</p>
 
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 👨🏽‍💻 Software Engineering Student SLIIT | 💻 Full Stack Developer | 🎓 Software Engineering Undergraduate at SLIIT  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h3>
