@@ -5,7 +5,7 @@
 <div align="right">
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Kobigan1223.Kobigan1223)
-   
+
 ![GitHub followers](https://img.shields.io/github/followers/Kobigan1223) ![GitHub User's stars](https://img.shields.io/github/stars/Kobigan1223)
 
 </div>
@@ -27,8 +27,7 @@
     <a href="https://medium.com/@kobitech18"><img height="30" src="assets/images/medium.png"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/"><img height="30" src="assets/images/facebook.png"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/"><img height="30" src="assets/images/instagram.png"></a>&nbsp;&nbsp;
-   <!-- <a href="https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/"><img height="30" src="assets/images/skype.png"></a>&nbsp;&nbsp;
--->
+   
  </p>
 
 <div align="center">
