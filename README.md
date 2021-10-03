@@ -14,6 +14,7 @@
    
 </div>
 
+[![Kobiganl's github activity graph](https://activity-graph.herokuapp.com/graph?username=Kobigan1223&theme=xcode)](https://git.io/Kobigan1223)
 <p align='center'>
    <!--
    ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/)
