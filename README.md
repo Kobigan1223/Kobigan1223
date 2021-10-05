@@ -126,6 +126,7 @@
   <img src="assets\badges\Tools\jetbrains_intellij.svg" alt="jetbrains_intellij" style="vertical-align:top; margin:4px">
   <img src="assets\badges\Tools\visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
+
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
 ![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
