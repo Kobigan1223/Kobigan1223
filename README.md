@@ -17,6 +17,15 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 👨🏽‍💻 Software Engineering Student SLIIT | 💻 Full Stack Developer | 🎓 Software Engineering Undergraduate at SLIIT  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h3>
 </div>
 
+<p align='center'>
+    <a href="https://www.linkedin.com/in/kumaran-varathan-0a4a821aa/"><img height="30" src="assets/images/linkedin.png"></a>&nbsp;&nbsp;
+<!--     <a href="https://medium.com/@kumaran14"><img height="30" src="assets/images/medium.png"></a>&nbsp;&nbsp; -->
+    <a href="https://www.linkedin.com/in/kumaran-varathan-0a4a821aa/"><img height="30" src="assets/images/facebook.png"></a>&nbsp;&nbsp;
+    <a href="https://www.instagram.com/thenameiskumaran/"><img height="30" src="assets/images/instagram.png"></a>&nbsp;&nbsp;
+   <!-- <a href="https://www.linkedin.com/in/kumaran-varathan-0a4a821aa/"><img height="30" src="assets/images/skype.png"></a>&nbsp;&nbsp;
+-->
+ </p>
+
 [![Kobiganl's github activity graph](https://activity-graph.herokuapp.com/graph?username=Kobigan1223&theme=xcode)](https://git.io/Kobigan1223)
 
 <p align='center'>
