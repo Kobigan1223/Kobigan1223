@@ -124,9 +124,6 @@ or <a href="mailto:kobitech18@gmail.com"><b>email</b></a> me.
 ## <i>Happy Coding!</i> <img align="center"  alt="GIF" src="assets\images\sonic-dance.gif" />
 
 </div>
-
-
-
   ### I know more about- </br>
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
