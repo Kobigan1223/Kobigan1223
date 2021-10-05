@@ -7,13 +7,14 @@
 ![GitHub followers](https://img.shields.io/github/followers/Kobigan1223) ![GitHub User's stars](https://img.shields.io/github/stars/Kobigan1223)
 
 </div>
-<div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 👨🏽‍💻 Software Engineering Student SLIIT | 💻 Full Stack Developer | 🎓 Software Engineering Undergraduate at SLIIT  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h3>
-</div>
+
 
 <div align="center">
    <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/style="color:blue;"> Hi there, I'm Kobigan K  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>
    
+</div>
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 👨🏽‍💻 Software Engineering Student SLIIT | 💻 Full Stack Developer | 🎓 Software Engineering Undergraduate at SLIIT  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h3>
 </div>
 
 [![Kobiganl's github activity graph](https://activity-graph.herokuapp.com/graph?username=Kobigan1223&theme=xcode)](https://git.io/Kobigan1223)
