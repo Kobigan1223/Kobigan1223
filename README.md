@@ -126,8 +126,13 @@
   <img src="assets\badges\Tools\jetbrains_intellij.svg" alt="jetbrains_intellij" style="vertical-align:top; margin:4px">
   <img src="assets\badges\Tools\visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
+![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
+![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
+![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
+![AWS](http://img.shields.io/badge/-Adobexd-000000?style=for-the-badge&logo=Adobexd&logoColor=cyan)
+![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
+</br>
 
----
 
 <div align="center">
 
@@ -139,7 +144,8 @@ or <a href="mailto:kobitech18@gmail.com"><b>email</b></a> me.
 ## <i>Happy Coding!</i> <img align="center"  alt="GIF" src="assets\images\sonic-dance.gif" />
 
 </div>
-  ### I know more about- 
+### I know more about- 
+
   </br>
   
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
@@ -158,6 +164,6 @@ or <a href="mailto:kobitech18@gmail.com"><b>email</b></a> me.
 ![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
 ![AWS](http://img.shields.io/badge/-Adobexd-000000?style=for-the-badge&logo=Adobexd&logoColor=cyan)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
-</br></br></br></br>
+</br></br>
 
 
