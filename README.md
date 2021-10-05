@@ -16,8 +16,18 @@
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 👨🏽‍💻 Software Engineering Student SLIIT | 💻 Full Stack Developer | 🎓 Software Engineering Undergraduate at SLIIT  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h3>
 </div>
+<p align='center'>   
+ 
+    <a href="http://kobigan.me/"><img height="30" src="assets/images/web.png"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/"><img height="30" src="assets/images/linkedin.png"></a>&nbsp;&nbsp;
+    <a href="https://medium.com/@kobitech18"><img height="30" src="assets/images/medium.png"></a>&nbsp;&nbsp;
+    <a href="http://kobigan.me/"><img height="30" src="assets/images/facebook.png"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/"><img height="30" src="assets/images/instagram.png"></a>&nbsp;&nbsp;
+   
+</p>
 
 [![Kobiganl's github activity graph](https://activity-graph.herokuapp.com/graph?username=Kobigan1223&theme=xcode)](https://git.io/Kobigan1223)
+
 <p align='center'>
    <!--
    ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/)
@@ -26,15 +36,8 @@
    [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=http://kobigan.me/)](http://kobigan.me/)
    [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/m.a.n.u.m.a.n.o.j/](http://kobigan.me/)
    -->
-   
-   <br><br>
-    <a href="http://kobigan.me/"><img height="30" src="assets/images/web.png"></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/"><img height="30" src="assets/images/linkedin.png"></a>&nbsp;&nbsp;
-    <a href="https://medium.com/@kobitech18"><img height="30" src="assets/images/medium.png"></a>&nbsp;&nbsp;
-    <a href="http://kobigan.me/"><img height="30" src="assets/images/facebook.png"></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/"><img height="30" src="assets/images/instagram.png"></a>&nbsp;&nbsp;
-   
-</p>
+     <br>
+
 
 
 
