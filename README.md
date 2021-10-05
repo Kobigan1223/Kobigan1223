@@ -120,13 +120,18 @@
 
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=00599C) 
+![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)   
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
-![Mysql](http://img.shields.io/badge/-Mysql-000000?style=for-the-badge&logo=Mysql&logoColor=magenta)
-![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=PHP)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=PHP)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=Bootstrap)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
+![Mysql](https://img.shields.io/badge/-Mysql-000000?style=for-the-badge&logo=Mysql)   
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB)
+![flutter](https://img.shields.io/badge/-flutter-000000?style=for-the-badge&logo=flutter)   
+   
 
    </div>
    
@@ -134,7 +139,7 @@
 
 <p align="center">
   
-   <img src="assets\badges\Tools\jetbrains_webstorm.svg" alt="webstorm" style="vertical-align:top; margin:4px">
+   <img src="assets\badges\Tools\jetbrains_webstorm.svg" alt="PyCharm" style="vertical-align:top; margin:4px">
    <img src="assets\badges\Tools\eclipse.svg" alt="eclipse" style="vertical-align:top; margin:4px">
   <img src="assets\badges\Tools\visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:4px">    
   <img src="assets\badges\Tools\android_studio_colour.svg" alt="androidstudio" style="vertical-align:top; margin:4px">
@@ -146,9 +151,11 @@
    
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
-![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
+![AdobeXd](http://img.shields.io/badge/- Adobe Xd-000000?style=for-the-badge&logo= Adobe Xd)
+![Figma](http://img.shields.io/badge/- Figma-000000?style=for-the-badge&logo=Figma)   
 ![AWS](http://img.shields.io/badge/-Adobexd-000000?style=for-the-badge&logo=Adobexd&logoColor=cyan)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
+![Xampp](http://img.shields.io/badge/-Xampp-000000?style=for-the-badge&logo=Xampp&logoColor=blue)   
   
    </div>
 </br>
