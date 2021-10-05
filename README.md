@@ -64,7 +64,8 @@
 - 🌱 &nbsp; Enthusiast in Data Science and Artificial Intelligence .
   
 <br />
-
+   
+<!--
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C | Java | C++  
@@ -72,7 +73,7 @@
 - 🛢 &nbsp; MySQL | MSSQL | MongoDB | Xampp
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
-
+-->
 <br>
 ## 😇 Some of my Github Public Stats
 
