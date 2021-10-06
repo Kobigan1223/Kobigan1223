@@ -10,7 +10,7 @@
 
 
 <div align="center">
-   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/style="color:blue;"> Hi there, I'm Kobigan K  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>
+   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/style="color:blue;"> Hi there, I'm Kobigan K [He/Him] 👦 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>
    
 </div>
 <div align="center">
@@ -58,7 +58,7 @@
 - ### 🌱 I’m currently learning Data Science and Artificial Intelligence . 😉🤣
 - ### 💬 Ask me about anything, I am happy to help 😊
 - ### 📫 How to reach me: Use any of the badges above 
-- ### 😄 Pronouns: [He/Him] 👦
+- ### 😄 Pronouns: 
    
   
 <br />
