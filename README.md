@@ -54,14 +54,12 @@
 
 
 ## 😎 Talking about Personal Stuffs:
-- ### 👨🏽‍💻 I’m currently working on something cool 😉
-- ### 🌱 I’m currently learning everything 🤣
+- ### 👨🏽‍💻 I’m currently working on something cool 😉 UI/UX Designer and front-end web developer.
+- ### 🌱 I’m currently learning Data Science and Artificial Intelligence . 😉🤣
 - ### 💬 Ask me about anything, I am happy to help 😊
 - ### 📫 How to reach me: Use any of the badges above 
 - ### 😄 Pronouns: [He/Him] 👦
-- 🎓 &nbsp; Studying Software Engineering.
-- 💼 &nbsp; UI/UX Designer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in Data Science and Artificial Intelligence .
+   
   
 <br />
    
