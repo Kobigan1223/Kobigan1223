@@ -65,9 +65,7 @@
 - 🛢 &nbsp; MySQL | MSSQL | MongoDB | Xampp
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
--->
-<br>
-   
+-->   
 ## 😇 Some of my Github Public Stats
 
 </details>
