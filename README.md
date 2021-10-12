@@ -45,6 +45,8 @@
 
 [![Kobiganl's github activity graph](https://activity-graph.herokuapp.com/graph?username=Kobigan1223&theme=xcode)](https://git.io/Kobigan1223)
 
+<p align='center'><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Kobigan1223&theme=radical" alt="Kobigan1223" />&nbsp; &nbsp;<img width="400px" src="https://github-readme-stats.vercel.app/api?username=Kobigan1223&count_private=true&theme=radical"/></p>
+
 <p align='center'>
    <!--
    ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/)
