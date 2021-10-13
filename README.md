@@ -162,8 +162,6 @@
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
 ![AdobeXd](http://img.shields.io/badge/-AdobeXd-000000?style=for-the-badge&logo=AdobeXd)
 ![Figma](http://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=Figma)   
-![Adobexd](http://img.shields.io/badge/-Adobexd-000000?style=for-the-badge&logo=Adobexd&logoColor=cyan)
-![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 ![Xampp](http://img.shields.io/badge/-Xampp-000000?style=for-the-badge&logo=Xampp&logoColor=blue)   
   
    </div>
