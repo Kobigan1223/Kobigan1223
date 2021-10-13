@@ -158,7 +158,6 @@
 
 <div align="center">
    
-![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
 ![AdobeXd](http://img.shields.io/badge/-AdobeXd-000000?style=for-the-badge&logo=AdobeXd)
 ![Figma](http://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=Figma)   
