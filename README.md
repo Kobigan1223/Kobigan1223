@@ -139,11 +139,9 @@
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=Bootstrap)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
 ![Mysql](https://img.shields.io/badge/-Mysql-000000?style=for-the-badge&logo=Mysql)   
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB)
-![flutter](https://img.shields.io/badge/-flutter-000000?style=for-the-badge&logo=flutter)   
    
 
    </div>
