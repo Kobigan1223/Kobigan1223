@@ -54,8 +54,9 @@
 -->
  </p>
 
+ <!--
 [![Kobiganl's github activity graph](https://activity-graph.herokuapp.com/graph?username=Kobigan1223&theme=radical)](https://git.io/Kobigan1223)
-
+-->
 <p align='center'><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Kobigan1223&theme=radical" alt="Kobigan1223" />&nbsp; &nbsp;<img width="400px" src="https://github-readme-stats.vercel.app/api?username=Kobigan1223&count_private=true&theme=radical"/>
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kobigan1223&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&theme=radical" /></a>
 </p>
