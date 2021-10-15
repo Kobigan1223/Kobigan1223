@@ -43,17 +43,17 @@
   
 <img width="99%" src="https://activity-graph.herokuapp.com/graph?username=Kobigan1223&bg_color=37383F&color=FFFFFF&line=FFFFFF&point=F8A427&hide_border=true&area=true&count_private=true"/>
  
-
+<!--
 <p align='center'>
      <a href="http://kobigan.me/"><img height="30" src="assets/images/web.png"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/"><img height="30" src="assets/images/linkedin.png"></a>&nbsp;&nbsp;
     <a href="https://medium.com/@kobitech18"><img height="30" src="assets/images/medium.png"></a>&nbsp;&nbsp;
     <a href="http://kobigan.me/"><img height="30" src="assets/images/facebook.png"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/kobigan-krishnananthan-5092491a6/"><img height="30" src="assets/images/instagram.png"></a>&nbsp;&nbsp;
-   <!-- <a href="https://www.linkedin.com/in/kumaran-varathan-0a4a821aa/"><img height="30" src="assets/images/skype.png"></a>&nbsp;&nbsp;
--->
- </p>
+    <a href="https://www.linkedin.com/in/kumaran-varathan-0a4a821aa/"><img height="30" src="assets/images/skype.png"></a>&nbsp;&nbsp;
 
+ </p>
+-->
  <!--
 [![Kobiganl's github activity graph](https://activity-graph.herokuapp.com/graph?username=Kobigan1223&theme=radical)](https://git.io/Kobigan1223)
 -->
