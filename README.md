@@ -114,7 +114,7 @@
 </center>
 -->
 
-## 🚀 Frameworks...
+## 🚀 Frameworks... 🌀 Languages...
 
 <p align="center">
   
@@ -124,14 +124,6 @@
   <img src="assets\badges\Frameworks\nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">     
   <img src="assets\badges\Frameworks\bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px"> 
   <img src="assets\badges\Frameworks\angular.svg" alt="angularjs" style="vertical-align:top; margin:4px">
-  
-</p>
--->
-   
-## 🌀 Languages...
-
-<p align="center">
-  
    <img src="assets\badges\Languages\java.svg" alt="java" style="vertical-align:top; margin:4px">
    <img src="assets\badges\Languages\js.svg" alt="js" style="vertical-align:top; margin:4px">  <!--
   <img src="assets\badges\Languages\csharp_dotnet.svg" alt="csharpdotnet" style="vertical-align:top; margin:4px">    -->
