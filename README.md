@@ -84,7 +84,7 @@
  <img align="right" height="300px" width="400px" alt="GIF" src="assets/images/processing.gif" />
 
 
-## 😎 Talking about Personal Stuffs:
+## 😎 Something Cool About Me :
 - ### 👨🏽‍💻 I’m currently working on something cool 😉 UI/UX Designer and front-end web developer.
 - ### 🌱 I’m currently learning Data Science and Artificial Intelligence . 😉🤣
 - ### 💬 Ask me about anything, I am happy to help 😊
