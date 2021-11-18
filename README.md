@@ -41,10 +41,10 @@
   <img width="32.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kobigan1223&count_private=true&hide_border=true&show_icons=true&theme=slateorange" alt="The only streaks that matter"/>
  <img width="32.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kobigan1223&layout=compact&hide_border=true&langs_count=6&hide=html,css&theme=slateorange&text_color=FFFFFF&hide_title=true">
 </p>
- 
   
 <img width="99%" src="https://activity-graph.herokuapp.com/graph?username=Kobigan1223&bg_color=37383F&color=FFFFFF&line=FFFFFF&point=F8A427&hide_border=true&area=true&count_private=true"/>
  
+
 <!--
 <p align='center'>
      <a href="http://kobigan.me/"><img height="30" src="assets/images/web.png"></a>&nbsp;&nbsp;
