@@ -1,4 +1,4 @@
-## Hey  Guys👋,..👋,
+## Hey  Guys👋,..👋
 
 <div align="right">
    
